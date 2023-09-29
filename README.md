@@ -35,5 +35,6 @@ Este texto esta en **_negrita y cursiva_**
 ```
 [Esto es un enlace](http://joan23.fje.edu "Enlace a la web del cole")
 
+![Esto es una imagen]( https://github.com/adrimartiin/ASIX1M4UF1-A3-Apuntes/blob/main/fondopantalla.jpg "Titulo opcional de la imagen")
 
 
