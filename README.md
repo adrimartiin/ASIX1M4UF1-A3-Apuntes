@@ -22,3 +22,18 @@ Este texto esta en **_negrita y cursiva_**
     * Cuarto submenu
 + Quinta opcion de lista desordenada
 + Sexta opcion de lista desordenada
+
+
+```
+<html>
+    <head>
+    </head>
+    <body>
+        <p>Esto es un parrafo</p>
+    </body>
+</html>
+```
+[Esto es un enlace](http://joan23.fje.edu "Enlace a la web del cole")
+
+
+
