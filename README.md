@@ -43,3 +43,7 @@ Este texto esta en **_negrita y cursiva_**
 |Col 3 es|Derecha|134€|
 |Estilo cebra|Gris|Blanco|
 |Clase|ASIX1|M4|
+
+- []Opcion A
+- [x]Opcion B
+- []Opcion C
