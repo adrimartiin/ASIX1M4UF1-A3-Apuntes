@@ -44,6 +44,9 @@ Este texto esta en **_negrita y cursiva_**
 |Estilo cebra|Gris|Blanco|
 |Clase|ASIX1|M4|
 
-- []Opcion A
+- [ ]Opcion A
+
 - [x]Opcion B
-- []Opcion C
+
+- [ ]Opcion C
+
