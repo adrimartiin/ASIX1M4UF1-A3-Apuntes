@@ -74,4 +74,20 @@ Este texto esta en **_negrita y cursiva_**
 
 - [ ]Opcion C
 
+## Tercer capitulo: HTML
 
+**Como empezar un documento de HTML**
+Para empezar un documento HTML, siempre pondremos como tipo de lenguaje del documento HTML. Después de esto en la primera línea pondremos html:5 que genera automáticamente las etiquetas: html,head,body.
+**Etiqueta head**: La etiqueta head es la primera etiqueta de la estrcutura de un documento HTML. Podemos ver el título de la página **title**, las etiquetas **meta** y también podremos añadir las etiquetas **link**,**style**,etc.
+**Etiqueta body**: En la etiqueta body es donde podremos encontrar todo el cuerpo de nuestro html. Se usan etiquetas como **p** (párrafos), **h1,h2,h3** (encabezados de diferentes tamaños), **ul** (lista desordenada o unordered list), **ol** (lista ordenada o ordered list), **li**(escribir atributos de la lista), **br**(intro) **hr** (línea), **blockquote**(poner una cita),etc.
+
+**Como hacer tablas en html**
+Para hacer tablas tendremos que hacer lo siguiente: 
+1. Poner la etiqueta **table**
+2. Introducirle el borde que queramos de la manera **border=1**
+3. Poner la etiqueta **thead** para hacer un encabezado de la tabla
+4. Poner la etiqueta **tr** para poner el contenido
+5. Poner la etiqueta **tbody** para hacer el cuerpo de la tabla
+6. Poner la etiqueta **tr** para poner el contenido del cuerpo de la tabla
+7. Poner la etiqueta **tfoot** para poner el pie/final de la tabla
+8. Poner la etiqueta **tr** para poner el contenido del pie de la tabla
